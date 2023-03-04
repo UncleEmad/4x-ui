@@ -12,7 +12,7 @@ xray panel supporting multi-protocol, **Multi-lang (English,Farsi,Chinese)**
 # Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/UncleEmad/3x-ui/master/install.sh)
 ```
 
 # SSL
@@ -60,8 +60,6 @@ After you set ssl on settings
 - [diditra](https://github.com/diditra/)
 - [FranzKafkaYu](https://github.com/FranzKafkaYu)
 - [alireza0](https://github.com/alireza0/)
+- [mhsanaei}(https://github.com/mhsanaei/)
 
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/MHSanaei/3x-ui.svg)](https://starchart.cc/MHSanaei/3x-ui)
