@@ -36,11 +36,6 @@ before you set ssl on settings
 After you set ssl on settings 
 - https://yourdomain:2053/xui
 
-# Enable Traffic For Users:
-
-**copy and paste to xray Configuration :** (you don't need to do this if you have a fresh install)
-- [for enable traffic](https://raw.githubusercontent.com/UncleEmad/3x-ui/main/media/for%20enable%20traffic.txt)
-- [for enable traffic+block all iran ip address](https://raw.githubusercontent.com/UncleEmad/3x-ui/main/media/for%20enable%20traffic%2Bblock%20all%20iran%20ip.txt)
 
 # Suggestion System
 - Ubuntu 20.04+
@@ -49,10 +44,10 @@ After you set ssl on settings
 
 # Pictures
 
-![1](https://raw.githubusercontent.com/UncleEmad/3x-ui/main/media/1.png)
-![2](https://raw.githubusercontent.com/UncleEmad/3x-ui/main/media/2.png)
-![3](https://raw.githubusercontent.com/UncleEmad/3x-ui/main/media/3.png)
-![4](https://raw.githubusercontent.com/UncleEmad/3x-ui/main/media/4.png)
+![1](https://raw.githubusercontent.com/mhsanaei/3x-ui/main/media/1.png)
+![2](https://raw.githubusercontent.com/mhsanaei/3x-ui/main/media/2.png)
+![3](https://raw.githubusercontent.com/mhsanaei/3x-ui/main/media/3.png)
+![4](https://raw.githubusercontent.com/mhsanaei/3x-ui/main/media/4.png)
 
 # A Special Thanks To
 - [vaxilu](https://github.com/vaxilu/)
