@@ -33,6 +33,12 @@ certbot renew --dry-run
 before you set ssl on settings
 - http:// ip or domain:2053/xui
 
+# Enable Traffic For Users:
+copy and paste to xray Configuration : (you don't need to do this if you have a fresh install)
+
+- http://for enable traffic
+- https://for enable traffic+block all iran ip address
+
 After you set ssl on settings 
 - https://yourdomain:2053/xui
 
