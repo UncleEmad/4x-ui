@@ -60,6 +60,6 @@ After you set ssl on settings
 - [diditra](https://github.com/diditra/)
 - [FranzKafkaYu](https://github.com/FranzKafkaYu)
 - [alireza0](https://github.com/alireza0/)
-- [mhsanaei}(https://github.com/mhsanaei/)
+- [mhsanaei](https://github.com/mhsanaei/)
 
 
