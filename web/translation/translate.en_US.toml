@@ -54,7 +54,7 @@
 "link" = "Other"
 
 [pages.login]
-"title Created by UncleEmad" = "Login"
+"title" = "Login - Created by UncleEmad"
 "loginAgain" = "The login time limit has expired, please log in again"
 
 [pages.login.toasts]
@@ -186,6 +186,7 @@
 "telegramNotifyTimeDesc" = "Using Crontab timing format, restart the panel to take effect"
 "timeZonee" = "Time Zone"
 "timeZoneDesc" = "The scheduled task runs according to the time in the time zone, and restarts the panel to take effect"
+"Created by who ...?" = "https://github.com/UncleEmad"
 
 [pages.setting.toasts]
 "modifySetting" = "modify setting"
