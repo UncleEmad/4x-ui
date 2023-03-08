@@ -9,7 +9,7 @@
 
 xray panel supporting multi-protocol, **Multi-lang (English,Farsi,Chinese)**
 
-# Install & Upgrade
+# Install & Upgrade | نصب و به روزرسانی
 
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/UncleEmad/3x-ui/master/install.sh)
@@ -24,16 +24,16 @@ certbot renew --dry-run
 
 **If you think this project is helpful to you, you may wish to give a** :star2: 
 
-# Default settings
+# Default settings | تنظمیات پیشفرض
 
 - Port: 2053
 - username and password will be generated randomly you can see them after you install it (x-ui "7")
 - database path: /etc/x-ui/x-ui.db
 
-before you set ssl on settings
+before you set ssl on settings | لینک اولیه شما قبل از ایجاد SSL
 - http:// ip or domain:2053/xui
 
-After you set ssl on settings 
+After you set ssl on settings  | لینک ورود به پنل بعد از SSL
 - https://yourdomain:2053/xui
 
 # Enable Traffic For Users:
@@ -64,4 +64,4 @@ After you set ssl on settings
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/MHSanaei/3x-ui.svg)](https://starchart.cc/UncleEmad/3x-ui)
+[![Stargazers over time](https://starchart.cc/UncleEmad/3x-ui.svg)](https://starchart.cc/UncleEmad/3x-ui)
