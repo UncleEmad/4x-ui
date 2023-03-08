@@ -26,7 +26,7 @@ certbot renew --dry-run
 
 # Default settings | تنظمیات پیشفرض
 
-- Port: 2053
+- Port: 2080
 - username and password will be generated randomly you can see them after you install it (x-ui "7")
 - database path: /etc/x-ui/x-ui.db
 
