@@ -52,6 +52,7 @@
 "setting" = "تنظیمات پنل"
 "logout" = "خروج"
 "link" = "دیگر"
+"MODIFY" = "تغییر یافته توسط"
 
 [pages.login]
 "title Created by UncleEmad" = "ورود به سیستم"
