@@ -52,6 +52,7 @@
 "setting" = "Panel Setting"
 "logout" = "LogOut"
 "link" = "Other"
+"MODIFY" = "MODIFY BY"
 
 [pages.login]
 "title" = "Login - Created by UncleEmad"
