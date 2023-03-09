@@ -635,6 +635,7 @@ show_usage() {
     echo -e "x-ui install      - Install x-ui "
     echo -e "x-ui uninstall    - Uninstall x-ui "
     echo "------------------------------------------"
+    echo -e "3x-ui developer   - Github/UncleEmad "
 }
 
 show_menu() {
@@ -662,6 +663,8 @@ show_menu() {
 ————————————————
   ${green}15.${plain} Enable BBR 
   ${green}16.${plain} Issuse Certs
+  
+  Github/UncleEmad
  "
     show_status
     echo && read -p "Please enter your selection [0-16]: " num
