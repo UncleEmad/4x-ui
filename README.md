@@ -1,4 +1,4 @@
-# 3x-ui
+# 4x-ui
 ![](https://img.shields.io/github/v/release/UncleEmad/3x-ui.svg)
 ![](https://img.shields.io/github/actions/workflow/status/UncleEmad/3x-ui/release.yml.svg)
 [![GO Version](https://img.shields.io/github/go-mod/go-version/UncleEmad/3x-ui.svg)](https://img.shields.io/github/go-mod/go-version/UncleEmad/3x-ui)
